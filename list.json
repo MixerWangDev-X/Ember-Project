@@ -1,0 +1,14 @@
+{
+    "project_1":{
+        "name":"Ember Project",
+        "dir":"/mwdx_community/MixerWangDev/datapack/ember_project"
+    }
+    ,"project_2":{
+        "name":"Ember E6",
+        "dir":"/mwdx_community/MixerWangDev/datapack/ember_project/mcworld/ember_e6"
+    }
+    ,"function":{
+        "name":"Ember Project Functions",
+        "dir":"/mwdxcommunity/MixerWangDev/datapack/ember_project/functions"
+    }
+}

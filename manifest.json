@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Some of MixerWangDev X Resources",
+    "name": "Ember Project",
+    "uuid": "02140bc9-1212-caaa-1000-facd231bfdbc",
+    "version": [7, 0, 4],
+    "min_engine_version": [1, 18, 0]
+  },
+  "modules": [
+    {
+      "description": "Pack Description",
+      "type": "data",
+      "uuid": "fdac1322-110e-a7c6-91f0-fdc4e76949ef",
+      "version": [1, 0, 0]
+    }
+  ]
+}
